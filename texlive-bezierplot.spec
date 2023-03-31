@@ -1,6 +1,6 @@
 Name:		texlive-bezierplot
 Version:	51398
-Release:	1
+Release:	2
 Summary:	Approximate smooth function graphs with cubic bezier splines for use with TikZ or MetaPost
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bezierplot
