@@ -3,7 +3,7 @@ Version:	70723
 Release:	1
 Summary:	Approximate smooth function graphs with cubic bezier splines for use with TikZ or MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bezierplot
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bezierplot
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bezierplot.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bezierplot.doc.r%{version}.tar.xz
