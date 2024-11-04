@@ -1,5 +1,5 @@
 Name:		texlive-bezierplot
-Version:	70723
+Version:	72750
 Release:	1
 Summary:	Approximate smooth function graphs with cubic bezier splines for use with TikZ or MetaPost
 Group:		Publishing
